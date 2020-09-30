@@ -63,12 +63,12 @@ pt-BR:
         no_open_processes: Não existem processos abertos
         no_past_processes: Não existem processos terminados
         section_header:
-          icon_alt: Ícone de processos legislativos
-          title: Processos legislativos
-          help: Ajuda sobre processos legislativos
+          icon_alt: Ícone de processos participativos
+          title: Processos participativos
+          help: Entenda como Funciona o Processo de Participação
         section_footer:
-          title: Ajuda sobre processos legislativos
-          description: Participar nos debates e processos prévios para a aprovação de um instrumento legal ou uma ação municipal. Sua opinião será considerada pela Prefeitura.
+          title: Entenda como Funciona o Processo de Participação
+          description: Entendemos o Programa de Governo como uma peça viva e dinâmica, que só estará completa com a colaboração da sociedade na sua elaboração, implementação e monitoramento participativo dos seus resultados.Este programa não é uma “obra acabada”, que não pode ser revisitada. Ao contrário, queremos a contribuição de todas(os) cidadãs(ãos) paulistanas(os) e nos comprometemos em publicar duas novas versões durante a campanha com suas atualizações e melhorias advindas da participação direta da população.
       phase_not_open:
         not_open: Nesta fase ainda não está aberta
       phase_empty:
