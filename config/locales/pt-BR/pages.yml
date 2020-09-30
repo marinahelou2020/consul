@@ -42,8 +42,10 @@ pt-BR:
         feature_1_link: "registrar em %{org_name}"
       processes:
         title: "Processos"
-        description: "Na seção %{link}, os cidadãos participam da redação e modificação dos regulamentos que afetam a cidade e podem opinar sobre as políticas municipais em debates anteriores."
+        description: "Na seção %{link}, as cidadã(o)s participam da redação e modificação do Programa de Governo proposto para a cidade de São Paulo e podem opinar sobre as políticas municipais propostas."
         link: "processos"
+        feature: "Para participar você tem que se %{link} e verificar sua conta."
+        feature_link: "registrar em %{org_name}"
       faq:
         title: "Problemas técnicos?"
         description: "Leia o FAQ e resolva suas dúvidas."
